@@ -37,8 +37,8 @@ This script shows a radial checkerboard stimulus sending two kinds of event mark
 
 | Event    | Marker | Contrast |Sample|
 |----------|--------|----------|------|
-| blank    | 1      |       0% | <img src="grey.jpg" width="50" height="50"/>     |
-| stimulus | 2      | 90%      |<img src="rad_stim.gif" width="50" height="50"/> |
+| blank    | 1      |       0% | <img src="images\grey.jpg" width="50" height="50"/>     |
+| stimulus | 2      | 90%      |<img src="images\rad_stim.gif" width="50" height="50"/> |
 
 ### Parameters
 
@@ -57,8 +57,8 @@ This script shows a radial checkerboard stimulus blended with a edge filtered an
 
 | Event    | Marker | Contrast |Sample|
 |----------|--------|----------|------|
-| blank    | 1      |       0% | [<img src="cartoon_b.png" width="70" height="70"/>](cartoon_b.png)     |
-| stimulus | 2      | 90%      |[<img src="cartoon_s.png" width="70" height="70"/>](cartoon_s.png) |
+| blank    | 1      |       0% | [<img src="images\cartoon_b.png" width="70" height="70"/>](images\cartoon_b.png)     |
+| stimulus | 2      | 90%      |[<img src="images\cartoon_s.png" width="70" height="70"/>](images\cartoon_s.png) |
 
 ### Movie Parameters
 
