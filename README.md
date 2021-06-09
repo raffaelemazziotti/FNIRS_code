@@ -53,7 +53,7 @@ To change other parameters such as luminance and contrast read Psychopy3 manual.
 
 ## cartoon.py
 
-This script shows a radial checkerboard stimulus blended with a edge filtered animated cartoon. During baseline it shows a low contrast grayscale animated cartoon. It sends two kinds of event markers:
+This script shows a radial checkerboard stimulus blended with an edge filtered animated cartoon. During baseline it shows a low contrast grayscale animated cartoon. It sends two kinds of event markers:
 
 | Event    | Marker | Contrast |Sample|
 |----------|--------|----------|------|
