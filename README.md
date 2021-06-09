@@ -42,7 +42,7 @@ This script shows a radial checkerboard stimulus sending two kinds of event mark
 
 ### Parameters
 
-* **trial_number** Number of blank and stimulus trials (The total number ot trials is trial_number*2 )
+* **trial_number** Number of blank and stimulus trials (The total number of trials is trial_number*2 )
 * **time_stim**  Duration of events in seconds
 * **time_intertrial**  duration of intertrial time in seconds
 * **freq**  Contrast reversal frequency in Hz
@@ -62,7 +62,7 @@ This script shows a radial checkerboard stimulus blended with a edge filtered an
 
 ### Movie Parameters
 
-* **number_of_trials** Number of stimulations (contrast inversion) and blanks (no changes in contrast) trials [the total number of trigger delivered is number_of_trials * 2]
+* **number_of_trials** Number of stimulations (contrast inversion) and blanks (no changes in contrast) trials [the total number of triggers delivered is number_of_trials * 2]
 * **intertrial** intertrial duration in secs
 * **tex_dur** stimulation duration in secs
 * **start_sec** Start the movie from  this second
