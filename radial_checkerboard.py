@@ -13,9 +13,9 @@ outlet = StreamOutlet(info)
 from psychopy import visual, core, event
 import movie_utils as utils
 
-trial_number = 20 # Total Number of trials (* events) in sec
+trial_number = 20 # Total Number of trials (* events)
 time_stim = 5 # Duration of checkerboard event in sec
-time_blank = 10  # duration of intertrial time in sec
+time_intertrial = 10  # duration of intertrial time in sec
 freq = 4 # Contrast reversal frequency in Hz 
 
 events = [0,1] # events ID
@@ -57,7 +57,7 @@ while True:
     exp = experimentTimer.getTime()
     cl = stimulusTimer.getTime()
 
-    if ttl==False and exp >= time_blank:
+    if ttl==False and exp >= time_intertrial:
         ttl = True
         radial = True
         if not trials.hasNext():
