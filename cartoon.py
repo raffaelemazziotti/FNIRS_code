@@ -34,7 +34,7 @@ luminance = .5 # mean luminance [0 to 1]
 gamma = 2.1865 # monitor gamma correction
 
 moviename = "ReLeone_edited" # movie file name [.mp4]
-# the script assumes that a folder called movie exists 
+# the script assumes that a folder called 'movies' exists 
 
 
 #######################################################
